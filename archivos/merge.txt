@@ -1,1 +1,2 @@
 Angelika Moya, 17, Aprender sobre Java y la programacion orintada objetos.
+Ahora que hay archivos si se puede detectar la carpeta y acceder dentro de esta en el repositorio.
