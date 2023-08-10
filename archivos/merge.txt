@@ -1,0 +1,1 @@
+Ahora que hay archivos si se puede detectar la carpeta y acceder dentro de esta en el repositorio.
