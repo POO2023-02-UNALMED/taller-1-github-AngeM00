@@ -1,0 +1,1 @@
+Al tener una carpeta vacia git no la reconocio y por tanto, no lo tomo como un cambio. Por esto no pude hacer el commit.
